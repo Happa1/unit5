@@ -7,6 +7,13 @@
 
 ## 1.solution
 ```.py
+def get_k(msg:str): # get the k
+    n=len(msg)
+    k=0
+    while 2**k<n+k+1:
+        k+=1
+    return k
+
 import matplotlib.pyplot as plt
 
 x_list=[]
