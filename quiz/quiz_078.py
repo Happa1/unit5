@@ -1,12 +1,3 @@
-# Quiz078
-![quiz_078.jpg](..%2FImage%2Fqustion%2Fquiz_078.jpg)
-**Fig1. Quiz 078**
-
-![quiz_078.jpeg](..%2FImage%2Fquiz_078.jpeg)
-**Fig2. Note Quiz 078**
-
-## 1.solution
-```.py
 def get_k(msg:str): # get the k
     n=len(msg)
     k=0
@@ -35,8 +26,3 @@ def get_msg(msg:str):
 
 test=get_msg(msg='1011')
 print(test)
-```
-
-## 2.proof of work
-![quiz_078.png](..%2FImage%2Fevidence%2Fquiz_078.png)
-**Fig3. test of quiz 078**

@@ -1,10 +1,8 @@
 def get_k(msg:str): # get the k
     n=len(msg)
     k=0
-
     while 2**k<n+k+1:
         k+=1
-
     return k
 
 def get_ham_position(k):
@@ -20,9 +18,6 @@ def get_check_p(len_msg,p):
         if n:
             output.append(i-1)
     return output
-
-test1=get_check_p(7,2)
-print(f"this is test {test1}")
 
 def final_msg(msg:str):
     k=get_k(msg)
@@ -56,8 +51,6 @@ def final_msg(msg:str):
             pr+=1
 
     return total_msg
-
-
 
 
 
