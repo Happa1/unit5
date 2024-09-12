@@ -2,7 +2,7 @@
 ![quiz_078.jpg](..%2FImage%2Fqustion%2Fquiz_078.jpg)
 **Fig1. Quiz 078**
 
-![quiz_078.jpeg](..%2FImage%2Fquiz_078.jpeg)
+![quiz_078.jpeg](..%2FImage%2Fnote%2Fquiz_078.jpeg)
 **Fig2. Note Quiz 078**
 
 ## 1.solution
