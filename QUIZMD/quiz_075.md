@@ -46,8 +46,13 @@ plt.plot(x_list, y_list)
 plt.show()
 ```
 
-## 2.proof of work
+
+## 2.proof of work SL
+![quiz_075-2.png](..%2FImage%2Fevidence%2Fquiz_075-2.png)
+**Fig3. test of quiz 075 SL**
+
+## 2.proof of work HL
 ![quiz_075.png](..%2FImage%2Fevidence%2Fquiz_075.png)
-**Fig3. test of quiz 075**
+**Fig4. test of quiz 075 HL**
 
 
