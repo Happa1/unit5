@@ -50,9 +50,11 @@ def final_msg(msg:str):
                 total_msg[j]=1
             pr+=1
 
-    return total_msg
+    ham_msg = ''.join(map(str, total_msg))
+    return ham_msg
 
 
 
-test=final_msg('1011')
+test=final_msg('1001')
+
 print(test)

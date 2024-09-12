@@ -18,3 +18,12 @@ for i in range(1,1000):
 
 plt.plot(x_list, y_list)
 plt.show()
+
+def get_k(n): # get the k
+    k=0
+    while 2**k<n+k+1:
+        k+=1
+    return k
+
+test=get_k(4)
+print(test)

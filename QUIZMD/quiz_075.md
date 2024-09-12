@@ -2,10 +2,20 @@
 ![quiz_075.jpg](..%2FImage%2Fqustion%2Fquiz_075.jpg)
 **Fig1. Quiz 075**
 
-![quiz_075.jpeg](..%2FImage%2Fquiz_075.jpeg)
+![quiz_075.jpeg](..%2FImage%2Fnote%2Fquiz_075.jpeg)
 **Fig2. Note Quiz 075**
 
-## 1.solution
+## 1-a.solution SL
+```.py
+def get_k(msg:str): # get the k
+    n=len(msg)
+    k=0
+    while 2**k<n+k+1:
+        k+=1
+    return k
+```
+
+## 1-b.solution HL
 ```.py
 def get_k(msg:str): # get the k
     n=len(msg)
