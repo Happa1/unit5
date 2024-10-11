@@ -1,5 +1,5 @@
 # Quiz081
-![quiz_081.jpg](..%2FImage%2Fqustion%2Fquiz_081-088%2Fquiz_081.jpg)
+![quiz_081.png](..%2FImage%2Fqustion%2Fquiz_081-088%2Fquiz_081.png)
 **Fig1. Quiz 081**
 
 ![quiz_081.jpeg](..%2FImage%2Fnote%2Fquiz_081-088%2Fquiz_081.jpeg)
