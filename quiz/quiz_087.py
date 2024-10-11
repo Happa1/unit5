@@ -49,7 +49,14 @@ class Stack():
                 temp.enque(item)
 
     def isEmpty(self):
-        if len(self.data) == 0:
-            return True
-        else:
-            return False
+        return self.data.isEmpty()
+
+s = Stack()
+s.push(10)
+s.push(20)
+s.push(30)
+
+print(s.pop())
+print(s.pop())
+print(s.pop())
+

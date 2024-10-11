@@ -4,8 +4,8 @@ def FUNC(input):
     l=len(input)
     n=1
     for i in range(7):
+        count = 0
         for j in range(l):
-            count=0
             if input[j]==n:
                 count+=1
         queue.enque(count)
